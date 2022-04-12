@@ -16,8 +16,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Osicllator. we can put links to code here or direct to another page and explain the example there.
 ```markdown
 Ts = 1;
-A = \[1 Ts 0 0; 0 1 0 0; 0 0 1 Ts; 0 0 0 1\];
-B = \[-Ts^2/2 0; -Ts 0; Ts^2/2 -Ts^2/2; Ts -Ts\];
 n = size(A,1);
 m = size(B,2);
 C = eye(n);
