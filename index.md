@@ -6,7 +6,7 @@ You can download th software package or see examples below.
 
 ### Download
 
-You can download the software package [here](https://meyuboglu.github.io/test_webpage/MPC_Poject_2021_Eyuboglu).
+You can download the software package [here](https://meyuboglu.github.io/test_webpage/Project_MPC____1_export.zip).
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
