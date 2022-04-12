@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Test Webpage for Toolbox
 description: matlab toolbox for computation of ...
 atom_feed:
-  hide: true
+  hide: false
